@@ -1,6 +1,6 @@
 # Introduce
 
-Hi, I'm Hagug. I'am studying to be a developer.
+안녕하세요. 개발을 공부하고 있는 하구그입니다.
 
 </br>
 
